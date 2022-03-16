@@ -1,1 +1,2 @@
-# skillTrackerAPI
+# SkillTracker REST API
+This is the server side of skillTracker made with Spring boot. To store skill values of user, update the skill value(only after 10 days of last update), and search the users with particular skillsets.
